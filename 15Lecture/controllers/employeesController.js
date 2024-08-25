@@ -65,7 +65,7 @@ const getAnEmployee = async (req, res) => {
   const employee = await Employee.findById(req.params.id).exec();
   if (!employee)
     return res
-      .status(400)
+      .status(204)
       .json({ message: `Employee couldn't be found with id ${req.params.id}` });
   res.json(employee);
 };

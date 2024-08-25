@@ -56,3 +56,4 @@
 25/08/2024	01:24:02	 528a1589-45d2-4d0b-b5c5-041e6afe30f9	 ReferenceError: roles is not defined
 25/08/2024	01:24:56	 b38711f2-bf84-48f1-80e9-0986d7339661	 ReferenceError: roles is not defined
 25/08/2024	01:30:20	 c23edc58-8e47-4f66-b692-1d637b1a354c	 Error: Cannot set headers after they are sent to the client
+26/08/2024	00:23:01	 5591ae19-ba5e-4d1f-8a5c-671cb1103266	 SyntaxError: Unexpected token } in JSON at position 110
