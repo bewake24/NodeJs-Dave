@@ -1,0 +1,58 @@
+22/04/2024	20:04:30	 4e698561-8613-44c4-af5d-8da475836ac3	 TypeError	 fsPromises.readFie is not a function
+18/08/2024	13:05:44	 940932de-15b9-40c2-938a-1ae937ca3257	 Error: Not allowed by CORS
+22/08/2024	04:39:05	 cd525072-a234-4251-bc9f-e2b9de45d556	 Error: ENOENT: no such file or directory, stat '/Users/vivekkumar/Work/Web Tech/API Dave/08Lecture/routes/views/index.html'
+22/08/2024	04:39:50	 daf059eb-3517-4643-8a8a-23dc6646b6ca	 Error: ENOENT: no such file or directory, stat '/Users/vivekkumar/Work/Web Tech/API Dave/08Lecture/routes/views/index.html'
+22/08/2024	06:52:14	 74b7a115-b345-4f4b-9eb8-4e623b989329	 TypeError: data.employees.add is not a function
+22/08/2024	11:11:10	 587bd1de-5848-439f-91a0-35b6edfe5d5c	 TypeError: Cannot set properties of undefined (setting 'firstname')
+22/08/2024	11:12:23	 e09f0ed4-f9c1-4c7d-8059-24f3521a7786	 Error: Cannot set headers after they are sent to the client
+22/08/2024	11:13:50	 8036668b-029f-41d4-8e6c-2070a6b70da5	 Error: Cannot set headers after they are sent to the client
+23/08/2024	22:03:40	 fd474b10-68eb-4381-a3ae-41e2c417db99	 TypeError: Cannot read properties of undefined (reading 'authorisation')
+23/08/2024	22:07:13	 a4a1439d-1d5f-4b0a-9c19-7d01d4905629	 SyntaxError: Unexpected token e in JSON at position 0
+23/08/2024	22:23:07	 e061ed9f-a025-4f8e-8f6f-33b12c39824c	 SyntaxError: Unexpected token e in JSON at position 0
+23/08/2024	22:25:51	 624aed98-248a-4568-9761-f97c7ef124a8	 SyntaxError: Unexpected token e in JSON at position 0
+23/08/2024	22:26:32	 23ca19e0-2cf3-4e93-afbf-5d2aabb1bba6	 SyntaxError: Unexpected token e in JSON at position 0
+23/08/2024	22:26:48	 a5fc5fb1-d123-460c-9a03-cbeffcf5c66a	 SyntaxError: Unexpected token e in JSON at position 0
+23/08/2024	22:27:21	 6df246ed-f5d3-4719-9004-32c5a64132a4	 SyntaxError: Unexpected token e in JSON at position 0
+23/08/2024	22:30:09	 295deb26-f140-4a4d-94e4-15127d59a826	 SyntaxError: Unexpected token e in JSON at position 0
+23/08/2024	22:32:41	 8b30a6cf-dea2-4997-85ac-11a579804233	 SyntaxError: Unexpected token e in JSON at position 0
+23/08/2024	22:37:52	 ea51dda8-249e-4572-a759-4aafeb035e58	 SyntaxError: Unexpected token e in JSON at position 0
+23/08/2024	22:39:31	 48de117b-a60c-44b6-8936-335af6fc9821	 SyntaxError: Unexpected token e in JSON at position 0
+23/08/2024	22:42:17	 7be46756-6bcd-400a-9e1c-de454cf48d05	 TypeError: Cannot read properties of undefined (reading 'authorisation')
+23/08/2024	22:43:40	 13f4bb9d-1f30-417e-a243-ffac037adaf2	 TypeError: Cannot read properties of undefined (reading 'authorization')
+23/08/2024	22:44:54	 797a18d9-7bad-40b8-93a1-94d7152a68b6	 SyntaxError: Unexpected token e in JSON at position 0
+23/08/2024	22:45:11	 0427b3fd-3452-4a0e-80d0-36db021ecb8b	 SyntaxError: Unexpected token e in JSON at position 0
+23/08/2024	22:46:30	 b94665f3-d90a-4d29-9fb5-4838a632f9cc	 SyntaxError: Unexpected token e in JSON at position 0
+23/08/2024	22:47:55	 7a822f0c-9869-4e5a-8861-002884f137ca	 SyntaxError: Unexpected token e in JSON at position 0
+23/08/2024	22:48:23	 f6b05278-502d-4f31-9f6c-2e645f815613	 SyntaxError: Unexpected token e in JSON at position 0
+23/08/2024	22:49:43	 d9480f35-9d7c-4a19-a12b-119e5e93bd0b	 SyntaxError: Unexpected token e in JSON at position 0
+23/08/2024	23:03:50	 3a17015e-6eb7-48d0-b2d8-2614a7f95b77	 SyntaxError: Unexpected token e in JSON at position 0
+23/08/2024	23:04:39	 65554932-db78-45c0-b370-0aa57bac9a45	 SyntaxError: Unexpected token e in JSON at position 0
+23/08/2024	23:14:15	 709d09e1-9c61-4551-88b2-daeabda68990	 SyntaxError: Unexpected token e in JSON at position 0
+23/08/2024	23:15:37	 94f4b8d3-f3da-4089-84da-2398c622c226	 SyntaxError: Unexpected token e in JSON at position 0
+24/08/2024	00:00:23	 9ab829f3-50aa-4a2c-9c90-32ddfaa006f3	 SyntaxError: Unexpected token e in JSON at position 0
+24/08/2024	00:03:28	 1005cca1-1769-492d-84c8-07c1fce763a3	 SyntaxError: Unexpected token e in JSON at position 0
+24/08/2024	00:03:44	 bf5a362c-c2a3-4f1e-bca5-5c64c3e8b0f9	 SyntaxError: Unexpected token e in JSON at position 0
+24/08/2024	00:04:03	 8799048f-81a8-4167-b8b9-7d0b7eccbf06	 SyntaxError: Unexpected token e in JSON at position 0
+24/08/2024	00:13:36	 51e721aa-c014-4a29-9ce3-abb7739695ce	 SyntaxError: Unexpected token e in JSON at position 0
+24/08/2024	00:13:43	 c3ce8da1-13aa-4ed9-8aba-ad356db73f5f	 SyntaxError: Unexpected token e in JSON at position 0
+24/08/2024	00:15:08	 b2442f9c-efd9-4494-8a77-0ca5bc6571e2	 SyntaxError: Unexpected token e in JSON at position 0
+24/08/2024	00:15:37	 e56d263a-651e-43c2-b95c-1def66574a7d	 SyntaxError: Unexpected token e in JSON at position 0
+24/08/2024	00:17:05	 733e6361-530a-4458-a2e7-611607cb06d1	 Error: Cannot set headers after they are sent to the client
+24/08/2024	00:18:18	 36da00bc-f498-4299-99c6-1ac27985567c	 SyntaxError: Unexpected token e in JSON at position 0
+24/08/2024	02:10:20	 51aa97fe-3981-422d-ba34-d9930ad263e9	 Error: Cannot set headers after they are sent to the client
+24/08/2024	02:12:42	 abb64e8d-048f-425e-b9e7-31878cbe92b2	 Error: Cannot set headers after they are sent to the client
+24/08/2024	19:09:25	 3f12b705-46e8-4796-94a1-172e85d970a9	 Error: Cannot set headers after they are sent to the client
+25/08/2024	01:10:50	 6bfa666f-1f34-4ea9-b020-07bf3a836397	 TypeError: Cannot read properties of undefined (reading 'username')
+25/08/2024	01:11:34	 1c989d89-8c67-4543-93b6-67622105ae30	 TypeError: Cannot read properties of undefined (reading 'username')
+25/08/2024	01:12:48	 29ae7372-3d5a-4a4e-b448-373183297d5b	 TypeError: Cannot read properties of undefined (reading 'username')
+25/08/2024	01:13:26	 658719f5-940d-4940-81d8-518f4f37dd5e	 TypeError: Cannot read properties of undefined (reading 'username')
+25/08/2024	01:14:40	 0845933f-594e-4d23-ae95-0e29a575edce	 TypeError: Cannot read properties of undefined (reading 'username')
+25/08/2024	01:15:09	 748b45f3-95a6-4b77-a547-43f15294cd77	 TypeError: Cannot read properties of undefined (reading 'username')
+25/08/2024	01:16:25	 8f800833-b15d-48e5-a9e1-dc83e94bb372	 TypeError: Cannot read properties of undefined (reading 'username')
+25/08/2024	01:16:54	 b5bbca6f-73af-4d66-99cc-d10dd24a4f1d	 TypeError: Cannot read properties of undefined (reading 'username')
+25/08/2024	01:17:27	 fbd2d0ff-6653-48bc-9c4c-b4e435d2df25	 TypeError: Cannot read properties of undefined (reading 'username')
+25/08/2024	01:21:01	 97f52228-e0fa-4940-aecd-bcdf0dd0ae0f	 ReferenceError: red is not defined
+25/08/2024	01:23:24	 50da4d76-9f93-45bb-95f0-1a4d9111b2ef	 ReferenceError: roles is not defined
+25/08/2024	01:24:02	 528a1589-45d2-4d0b-b5c5-041e6afe30f9	 ReferenceError: roles is not defined
+25/08/2024	01:24:56	 b38711f2-bf84-48f1-80e9-0986d7339661	 ReferenceError: roles is not defined
+25/08/2024	01:30:20	 c23edc58-8e47-4f66-b692-1d637b1a354c	 Error: Cannot set headers after they are sent to the client

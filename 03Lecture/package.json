@@ -1,0 +1,20 @@
+{
+  "name": "03lecture",
+  "version": "1.0.0",
+  "description": "\"Practice node modUles\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon",
+    "start": "node index.js",
+    "butki": "nodemon index.js"
+  },
+  "keywords": [
+    "npmjs"
+  ],
+  "author": "Vivek Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "uuid": "^10.0.0"
+  }
+}

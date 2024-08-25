@@ -1,0 +1,5 @@
+22/02/2024	20:02:12	 0eb494f6-81f5-4336-86ce-b0d9c6523619	 /new-page	 GET
+22/02/2024	20:02:12	 ce89be37-fd1f-47b4-8657-21de3a7b8100	 /css/styles.css	 GET
+22/02/2024	20:02:12	 5c971d99-7caa-4156-9b4a-8ec5471e7f39	 /img/img1.jpg	 GET
+22/02/2024	20:02:12	 cb1b7e26-3e9f-401b-9da5-a7717d0299f1	 /favicon.ico	 GET
+22/04/2024	20:04:30	 c77a8748-0b87-47e6-9cbd-910e19ec3737	 /new-page	 GET
