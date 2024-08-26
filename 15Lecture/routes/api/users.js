@@ -1,12 +1,17 @@
-const express = require('express');
+const express = require("express");
 const router = express.Router();
-const usersController = require('../../controllers/usersController')
+const usersController = require("../../controllers/usersController");
+const ROLES_LIST = require("../../config/rolesList");
+const verifyRoles = require("../../middleware/verifyRoles");
 
-router.route('/')
-    .get(usersController.getAllUser)
-    .post(usersController.updateUser)
-    .delete(usersController.deleteUser)
+router
+  .route("/")
+  .get(verifyRoles(ROLES_LIST.Admin), usersController.getAllUser)
+  .post(verifyRoles(ROLES_LIST.Admin), usersController.updateUser)
+  .delete(verifyRoles(ROLES_LIST.Admin), usersController.deleteUser);
 
-router.route('/:id').get(usersController.getAnUser)
+router
+  .route("/:id")
+  .get(verifyRoles(ROLES_LIST.Admin), usersController.getAnUser);
 
 module.exports = router;
